@@ -53,5 +53,6 @@ main .main-description {
     font-weight: 400;
     text-align: center;
     margin: 20px 0 20px;
+    padding: 0 7px;
     color: var(--Grayish-blue);
 }
