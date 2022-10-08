@@ -9,5 +9,5 @@ basic positioning in html
 
 ## Author
 
-- Website - [Add your name here](https://github.com/Jocad7)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Jocad7)
+- Website - [github/Jocad7](https://github.com/Jocad7)
+- Frontend Mentor - [@Jocad7](https://www.frontendmentor.io/profile/Jocad7)
